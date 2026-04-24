@@ -4,9 +4,9 @@
 </h1>
 
 
-- 🎓 A student at Cairo University, Faculty of Engineering, Computer Department.
-- 👩‍💻 Passionate Frontend Developer, actively learning Backend Development to evolve into a full-stack developer.
-- 🤖 Enthusiast of Machine Learning, dedicated to enhancing technical expertise and exploring innovative solutions.
+- A student at Cairo University, Faculty of Engineering, Computer Department.
+- Passionate Frontend Developer, actively learning Backend Development to evolve into a full-stack developer.
+- Enthusiast of Machine Learning, dedicated to enhancing technical expertise and exploring innovative solutions.
 
 ---
 
