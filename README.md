@@ -8,9 +8,8 @@
 - Passionate Frontend Developer, actively learning Backend Development to evolve into a full-stack developer.
 - Enthusiast of Machine Learning, dedicated to enhancing technical expertise and exploring innovative solutions.
 
----
-
 ## 🧰 Languages and Tools
+
 <img align="left" alt="HTML" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -47,11 +46,6 @@
 <img align="left" alt="slack" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/slack/slack-original.svg" />
 <img align="left" alt="figma" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <br/><br/><br/>
-
-<br/>
-
-<hr/>
-
 
 ## ⚡ Stats
 
